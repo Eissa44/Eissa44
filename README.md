@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Eissa Elemam ❤👋</h1>
-
+  I'm a front-end developer who is passionate about creating technology to elevate people and help new developers to find the right path
 
 <p >
     <h4>Social Links</h4>
@@ -9,7 +9,7 @@
 <!--     <a href="https://twitter.com/mohamed_abusrea"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a> -->
   </p>
 
-  I'm a front-end developer who is passionate about creating technology to elevate people and help new developers to find the right path
+
 
   <h3>Languages and Tools:</h3>
 
