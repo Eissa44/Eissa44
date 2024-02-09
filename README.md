@@ -1,5 +1,9 @@
 Hi there I'm Eissa Elemam ❤👋
 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/vivek-chauhan-769028174/)
+
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://vivekagent47.github.io/)
+
 <!--
 **Eissa44/Eissa44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
