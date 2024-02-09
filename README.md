@@ -2,9 +2,9 @@
 <hr/>
 <p align="center">
     <a href="https://eissa44.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge"></a>
-    <a href="https://www.linkedin.com/in/eissa-elemam-376734269/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.instagram.com/eissaelemam/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
-<!--     <a href="https://twitter.com/mohamed_abusrea"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a> -->
+    <a href="https://www.linkedin.com/in/eissa-elemam-376734269/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.instagram.com/eissaelemam/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<!--     <a href="https://twitter.com/mohamed_abusrea"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a> -->
 
   </p>
 
