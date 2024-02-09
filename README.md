@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Eissa Elemam ❤👋</h1>
-<hr/>
+
+
 <p align="center">
     <a href="https://eissa44.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge"></a>
     <a href="https://www.linkedin.com/in/eissa-elemam-376734269/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
