@@ -6,8 +6,9 @@
     <a href="https://www.linkedin.com/in/eissa-elemam-376734269/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://www.instagram.com/eissaelemam/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <!--     <a href="https://twitter.com/mohamed_abusrea"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a> -->
-
   </p>
+
+  I'm a front-end developer who is passionate about creating technology to elevate people and help new developers to find the right path
 
 
 <!--
