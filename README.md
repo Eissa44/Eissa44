@@ -9,8 +9,10 @@
   </p>
 
   I'm a front-end developer who is passionate about creating technology to elevate people and help new developers to find the right path
-
-
+<!--
+<p align="center">
+</p>
+ -->
 <!--
 **Eissa44/Eissa44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
