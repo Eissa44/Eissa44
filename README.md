@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Eissa Elemam ❤👋</h1>
   I'm a front-end developer who is passionate about creating technology to elevate people and help new developers to find the right path
-  - 🌱 I’m currently learning Full Stack(Angular, ASP.NET)
+- 🌱 I’m currently learning <strong>Full Stack(Angular, ASP.NET)</strong>
 
 <p >
     <h4>Social Links</h4>
